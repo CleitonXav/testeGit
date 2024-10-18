@@ -1,1 +1,14 @@
 testeGit
+
+Testando branch, no exemplo citado (git branch cad_cliente)
+git status (on branch main)
+
+após o comando git checkout cad_cliente 
+aparece (Switched to branch 'cad_cliente')
+
+novamente git status
+aparece (On branch cad_cliente)
+
+Com o comando git branch -l (mostra a branch local, nesse caso *cad_cliente)
+
+No comando git branch -a (mostra todos além do remotes/oriogin/main) que ainda não se encontra no acesso remoto.
